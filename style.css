@@ -1,0 +1,31 @@
+body
+{
+  color: black;
+  background-color: red;
+
+}
+.heading
+{
+  width: 90%;
+  font-size: 26px;
+
+}
+#camera
+{
+  border: 2px dotted purple;
+  width: 352px;
+  height: 302px;
+
+}
+.name_of_object
+{
+  color:magenta;
+}
+#result_object_name
+{
+  color: darkblue;
+}
+#result_object_accuracy
+{
+  color: red;
+}
